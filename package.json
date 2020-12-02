@@ -1,0 +1,25 @@
+{
+  "name": "teamwork-capstone-project",
+  "version": "1.0.0",
+  "description": "Teamwork is a internal social network for employees of an organisation.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanSam5K/Teamwork-Capstone-Project.git"
+  },
+  "author": "Daniel Samuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanSam5K/Teamwork-Capstone-Project/issues"
+  },
+  "homepage": "https://github.com/DanSam5K/Teamwork-Capstone-Project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^7.14.0"
+  }
+}

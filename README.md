@@ -1,2 +1,5 @@
 # Teamwork-Capstone-Project
-Teamwork is an ​internal social network for employees of an organization. The goal of this application is to facilitate more interaction between colleagues and promote team bonding. 
+Teamwork is an ​internal social network for employees of an organization. The goal of this application is to facilitate more interaction between colleagues and promote team bonding.
+
+# Set Project with Node/Express 
+# Using Elint with airbnb style guideA
